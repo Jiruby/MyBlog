@@ -371,7 +371,7 @@ AOP 是 OOP（*面向对象编程*） 的延续，是软件开发中的一个热
 - JDK代理：基于j接口
 - cglib代理：基于父类
 
-![1564976085648](C:\Users\29789\AppData\Local\Temp\1564976085648.png)
+![](http://image.jiruby.cn/2020-04-20%20192900.jpg)
 
 ##### 2.1 JDK代理
 
