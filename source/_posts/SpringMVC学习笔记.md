@@ -584,7 +584,7 @@ public class PrivilegeInterceptor implements HandlerInterceptor {
 系统中异常包括两类：预期异常和运行时异常RuntimeException，前者通过捕获异常从而获取异常信息，后者主要通过规范代码开发、测试等手段减少运行时异常的发生。
 
 系统的Dao、Service、Controller出现都通过throws Exception向上抛出，最后由SpringMVC前端控制器交由异常处理器进行异常处理。
-![1565004037016](C:\Users\29789\AppData\Local\Temp\1565004037016.png)
+![](http://image.jiruby.cn/2020-04-23%20210000.jpg)
 
 #### 2.SpringMVC异常处理
 
