@@ -102,3 +102,8 @@ deploy:
   type: git
   repo: git@8.129.1.184:/home/git/blog.git
   branch: master
+
+search:
+  path: search.xml
+  field: post
+  content: true
